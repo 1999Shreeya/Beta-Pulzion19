@@ -147,6 +147,11 @@ nav {
   min-height: 100px;
 }
 
+#mainNav li {
+  display: inline;
+  margin-left: 20px;
+}
+
 /*...................................................*/
 
 
