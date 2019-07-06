@@ -194,7 +194,7 @@ nav {
   background-color: #000;
   min-height: 100%;
   margin-left: -18px;
-  margin-right: -25px;
+  margin-right: -40px;
 }
 
 .section1 {
@@ -203,7 +203,7 @@ nav {
   background-color: #25274D;
   padding: 50px 80px;
   margin-left: -18px;
-  margin-right: -25px;
+  margin-right: -40px;
 }
 
 .section2 {
@@ -212,7 +212,7 @@ nav {
   padding: 50px 80px;
   min-height: 100%;
   margin-left: -18px;
-  margin-right: -25px;
+  margin-right: -40px;
 }
 
 .section3 {
@@ -221,7 +221,7 @@ nav {
   background-color: #051228;
   padding: 50px 80px;
   margin-left: -18px;
-  margin-right: -25px;
+  margin-right: -40px;
 }
 
 .section4 {
@@ -230,7 +230,7 @@ nav {
   min-height: 100vh;
   background-color: #25274D;
   margin-left: -18px;
-  margin-right: -25px;
+  margin-right: -40px;
 }
 
 /************ABOUT US PAGE*********************************/
@@ -465,7 +465,7 @@ hr
 .page-footer {
   background-color: #404040;
   margin-left: -20px;
-  margin-right: -25px;
+  margin-right: -40px;
   position: relative;
 }
 
