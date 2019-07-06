@@ -134,6 +134,9 @@ nav {
   font-size: 18px;
   font-family: 'Quantico', sans-serif;
   text-decoration: bold;
+  display: inline;
+  margin-left: 30px;
+  letter-spacing: 2px;
 }
 .fa.fa-navicon {
   color: cyan;
@@ -148,8 +151,7 @@ nav {
 }
 
 #mainNav li {
-  display: inline;
-  margin-left: 20px;
+  
 }
 
 /*...................................................*/
