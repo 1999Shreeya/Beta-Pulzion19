@@ -2408,6 +2408,8 @@ i.fly-in-out {
   {
     visibility: hidden;
   }
+  .border-v {
+    visibility: hidden;
   }
   @media only screen and (min-width : 480px) and (max-width : 768px) {
     .scaled{

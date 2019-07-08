@@ -175,6 +175,7 @@ nav {
   font-weight: bold;
   position: relative;
   text-align: center;
+  letter-spacing: 2px;
 }
 
 #aboutus, #sponsers {
@@ -184,6 +185,7 @@ nav {
   position: relative;
   text-align: center;
   font-weight: bold;
+  letter-spacing: 2px;
 }
 
 #contactus {
@@ -193,6 +195,7 @@ nav {
   position: relative;
   text-align: center;
   font-weight: bold;
+  letter-spacing: 2px;
 }
 
 #section0 {
