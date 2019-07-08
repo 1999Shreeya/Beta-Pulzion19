@@ -2400,7 +2400,7 @@ i.fly-in-out {
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-width : 320px) and (max-width : 480px) {
   .scaled{
-    transform: scale(0.45); /* Equal to scaleX(0.7) scaleY(0.7) */
+    transform: scale(0.55); /* Equal to scaleX(0.7) scaleY(0.7) */
     margin-left: 80px;
     margin-right: 110px;
   }
