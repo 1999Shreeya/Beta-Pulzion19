@@ -133,7 +133,7 @@
     min-height: 100%;
     padding: 15px;
   
-    background: #222222;
+    background: #25274D;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -142,7 +142,7 @@
   
   .container-contact1 {
     width: 1163px;
-    background: #fff;
+    background: #2020202;
     border-radius: 10px;
     overflow: hidden;
   
@@ -179,7 +179,7 @@
     display: block;
     font-family: 'Quantico',sans-serif;
     font-size: 24px;
-    color: #333333;
+    color: #fff;
     line-height: 1.2;
     text-align: center;
     padding-bottom: 44px;
@@ -268,7 +268,7 @@
     min-width: 193px;
     height: 50px;
     border-radius: 25px;
-    background: cyan;
+    background: #0E89CB;
     font-family: 'Quantico',sans-serif;
     font-size: 15px;
     line-height: 1.5;
@@ -298,7 +298,7 @@
   }
   
   .contact1-form-btn:hover {
-    background: #333333;
+    background: #25274D;
   }
   
   .contact1-form-btn:hover i {
